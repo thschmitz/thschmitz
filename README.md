@@ -2,7 +2,7 @@
 
 
 - 💼 Back-End
-- 🏫 Estudando Python e JavaScript
+- 🏫 Estudando JavaScript
 ##
 <div>
   <a href="https://github.com/thschmitz">
