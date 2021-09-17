@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-- 💼 Back-End
+- 💼 Full Stack
 - 🏫 Estudando JavaScript
 ##
 <div>
