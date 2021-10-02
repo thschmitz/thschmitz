@@ -3,6 +3,8 @@
 
 - 💼 Full Stack
 - 🏫 Estudando JavaScript
+- 🚀 Em constante crescimento
+
 ##
 <div>
   <a href="https://github.com/thschmitz">
