@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World, sou o Thomas Henrique Schmitz, desenvolvedor full-stack desde os 14
 
 
 - 💼 Full Stack
