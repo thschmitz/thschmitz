@@ -1,4 +1,4 @@
-### Hello World, sou o Thomas Henrique Schmitz, desenvolvedor full-stack desde os 14
+### Hello World, sou o Thomas Henrique Schmitz, desenvolvedor full-stack
 
 
 - 💼 Full Stack
@@ -18,6 +18,7 @@
   <img align="center" alt="Thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thomas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Thomas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Thomas-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
  
