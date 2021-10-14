@@ -2,7 +2,7 @@
 
 
 - 💼 Full Stack
-- 🏫 Estudando JavaScript
+- 🏫 Estudando Firebase
 - 🚀 Em constante crescimento
 
 ##
