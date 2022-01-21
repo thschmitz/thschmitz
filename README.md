@@ -2,7 +2,7 @@
 
 
 - 💼 Full Stack
-- 🚀 Em constante crescimento
+- 🚀 Constantly growing
 
 ##
 <div>
