@@ -1,4 +1,4 @@
-### Hello World, sou o Thomas Henrique Schmitz, desenvolvedor full-stack
+### Hello World, I'm Thomas Schmitz, Full-Stack Software Developer
 
 
 - 💼 Full Stack
