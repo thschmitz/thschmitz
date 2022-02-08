@@ -3,6 +3,7 @@
 
 - 💼 Full Stack
 - 🚀 Constantly growing
+- 📈 1% better each day
 
 ##
 <div>
