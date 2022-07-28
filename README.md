@@ -1,4 +1,4 @@
-### Hello World, I'm Thomas Schmitz, Front-End Software Developer
+### Hello World, I'm Thomas Schmitz, Full-Stack Software Developer
 
 
 - 💼 Front-End
