@@ -1,7 +1,7 @@
 ### Hello World, I'm Thomas Schmitz, Full-Stack Software Developer
 
 
-- 💼 Front-End
+- 💼 Full-Stack
 - 🚀 Constantly growing
 - 📈 1% better each day
 
