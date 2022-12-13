@@ -6,10 +6,16 @@
 - 📈 1% better each day
 
 ##
-<div>
-  <a href="https://github.com/thschmitz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thschmitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thschmitz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+<a href="https://github.com/thschmitz">
+  <img height="180em" alt="Thomas's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=thschmitz&count_private=true&show_icons=true&theme=dark&custom_title=Thomas's%20GitHub%20Stats&include_all_commits=true" />
+  
+  <br></br>
+  
+  <img height="180em" alt="Thomas's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thschmitz&layout=compact&theme=dark"/>  
+</a>
+
+  
   
 ##
 <div style="display: inline_block"><br>
