@@ -1,7 +1,6 @@
-### Hello World, I'm Thomas Schmitz, Software Developer
+<h1 align="center">Hello World 👋, I'm Thomas Schmitz</h1>
+<h3 align="center">Software Developer at Systemhaus and Computer engineering student at UFRGS</h3>
 
-
-- 💼 Full-Stack
 - 🚀 Constantly growing
 - 📈 1% better each day
 
@@ -19,15 +18,15 @@
   
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thomas-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Thomas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Thomas-arduino" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img align="center" alt="Thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thomas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Thomas-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Thomas-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Thomas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    
 
+  <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
 ##
