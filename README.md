@@ -1,8 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Thomas Schmitz</h1>
 <h3 align="center">Software Developer at Systemhaus and Computer engineering student at UFRGS</h3>
 
-- 🚀 Constantly growing
-- 📈 1% better each day
+As a Computer Engineering student at the Federal University of Rio Grande do Sul (UFRGS), I have developed a strong foundation in software development. My academic journey is enriched by international experiences and professional certifications, which have broadened my technical expertise.
+
+My passion for technology drives me to consistently seek opportunities to apply my skills to real-world challenges. Through hands-on projects and collaborative environments, I have honed my problem-solving abilities and adaptability, thriving in dynamic settings that encourage innovation and teamwork.
+
+Looking ahead, I am committed to expanding my professional horizons by engaging with diverse projects and leveraging my skills to create impactful solutions. With a proactive approach and dedication to excellence, I am eager to make meaningful contributions to the advancement of technology and innovation on a global scale.
 
 ##
 
