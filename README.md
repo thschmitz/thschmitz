@@ -1,5 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Thomas Schmitz</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFCA28&width=420&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%98%81" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">Software Developer at Systemhaus and Computer engineering student at UFRGS</h3>
+
 
 As a Computer Engineering student at the Federal University of Rio Grande do Sul (UFRGS), I have developed a strong foundation in software development. My academic journey is enriched by international experiences and professional certifications, which have broadened my technical expertise.
 
@@ -9,29 +15,27 @@ Looking ahead, I am committed to expanding my professional horizons by engaging 
 
 ##
 
-<a href="https://github.com/thschmitz">
-  <img height="180em" alt="Thomas's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=thschmitz&count_private=true&show_icons=true&theme=dark&custom_title=Thomas's%20GitHub%20Stats&include_all_commits=true" />
-  
-  <br></br>
-  
-  <img height="180em" alt="Thomas's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thschmitz&layout=compact&theme=dark"/>  
-</a>
+<div align="center">
+    <img alt="Thomas's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=thschmitz&count_private=true&show_icons=true&theme=dark&custom_title=Thomas's%20GitHub%20Stats&include_all_commits=true&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&line_height=20&" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thschmitz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi">
+</div>
 
-  
+
   
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thomas-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Thomas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Thomas-arduino" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  <img align="center" alt="Thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thomas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Thomas-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thomas-postgresql width="30" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" alt="Thomas-mysql" width="40" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Thomas-oracle" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
-  <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://skillicons.dev/icons?i=java"> 
+  <img src="https://skillicons.dev/icons?i=c"> 
+  <img src="https://skillicons.dev/icons?i=python"> 
+  <img src="https://skillicons.dev/icons?i=js">
+  <img src="https://skillicons.dev/icons?i=mysql">  
+  <img src="https://skillicons.dev/icons?i=sqlite"> 
+  <img src="https://skillicons.dev/icons?i=arduino">  
+  <img src="https://skillicons.dev/icons?i=postgres">  
+  <img src="https://skillicons.dev/icons?i=docker">  
+  <img src="https://skillicons.dev/icons?i=html">  
+  <img src="https://skillicons.dev/icons?i=css">  
+  <img src="https://skillicons.dev/icons?i=react">  
 </div>
  
 ##
