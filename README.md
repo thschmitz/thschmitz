@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFCA28&width=420&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%98%81" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">Computer engineering student at UFRGS</h3>
+<h3 align="center">Computer engineering student at UFRGS | Working at KOPP</h3>
 
 
 As a Computer Engineering student at the Federal University of Rio Grande do Sul (UFRGS), I have developed a strong foundation in software development. My academic journey is enriched by international experiences and professional certifications, which have broadened my technical expertise.
