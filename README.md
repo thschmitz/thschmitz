@@ -13,8 +13,6 @@ My passion for technology drives me to consistently seek opportunities to apply 
 
 Looking ahead, I am committed to expanding my professional horizons by engaging with diverse projects and leveraging my skills to create impactful solutions. With a proactive approach and dedication to excellence, I am eager to make meaningful contributions to the advancement of technology and innovation on a global scale.
 
-##
-
   
 ##
 <div style="display: inline_block"><br>
