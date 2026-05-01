@@ -15,12 +15,6 @@ Looking ahead, I am committed to expanding my professional horizons by engaging 
 
 ##
 
-<div align="center">
-    <img alt="Thomas's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=thschmitz&count_private=true&show_icons=true&theme=dark&custom_title=Thomas's%20GitHub%20Stats&include_all_commits=true&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&line_height=20&" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thschmitz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi">
-</div>
-
-
   
 ##
 <div style="display: inline_block"><br>
